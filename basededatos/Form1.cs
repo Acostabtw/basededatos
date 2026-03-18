@@ -194,5 +194,3 @@ namespace basededatos
 
              dataGridView_fila.Rows.Remove(dataGridView_fila.CurrentRow);
          }*/
-
-
